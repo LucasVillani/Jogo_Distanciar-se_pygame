@@ -1,1 +1,3 @@
-# jogo-distanciar-se
+# Distanciar-se
+
+Jogo feito em Pygame
